@@ -37,7 +37,7 @@ export default function RootLayout({ children }) {
 
             <footer className="bg-muted/50 py-12">
               <div className="container mx-auto px-4 text-center text-gray-200">
-                <p>Krishna Dubey(krishdubey00@gmail.com)</p>
+                <p>VitaBridge (@krishdubey00@gmail.com)</p>
               </div>
             </footer>
           </ThemeProvider>
