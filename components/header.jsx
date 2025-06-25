@@ -30,7 +30,7 @@ export default async function Header() {
             src={"/logo.jpg"}
             alt="VitaBridge Logo"
             width={200}
-            height={60}
+            height={80}
             className="h-12 py-1 w-auto object-contain"
           />
         </Link>
