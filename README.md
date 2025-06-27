@@ -51,7 +51,8 @@ With the integration of **Gemini AI**, the platform delivers tailored content an
 <h3>📸 UI Preview</h3>
 
 <p align="center">
-  <img src="UI.png" alt="VitaBridge Screenshot" width="50%" />
+  <img src="UI.png" alt="VitaBridge Screenshot" width="50%"   class="w-full max-w-xs mx-auto aspect-[3/4] object-cover rounded-xl shadow-lg"
+ />
 </p>
 
 ---
